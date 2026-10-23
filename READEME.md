@@ -13,3 +13,5 @@ it uses markdown
 - [ ] a bullet point
 
 ---
+
+this is a message from conflict, first part of merge conflict
